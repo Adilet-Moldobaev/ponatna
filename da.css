@@ -1,0 +1,46 @@
+img{
+width: 70%;
+justify-content: center;
+margin-top: 100px;
+margin-left: 140px;
+}
+.images1{
+    width: 50%;
+    justify-content: flex-end;
+    margin-top: -230px;
+    margin-left: 1000px;
+    display: flex;
+}
+.images2{
+    width: 40%;
+    margin-top: -600px;
+    margin-left: 1155px;
+    justify-content: flex;
+    
+}
+.images3{
+    width: 50%;
+    margin-right: 10px;
+}
+.text1{
+    justify-content: center;
+}
+.text2{
+    justify-content: flex-start;
+}
+.btn{
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 0.8rem 2.8rem;
+    border-radius: 5rem;
+    cursor: pointer;
+    background: none;
+    font-size: 1.7rem;
+    overflow: hidden;
+    z-index: 0;
+    position: relative;
+    
+}
+.btn:hover {
+    color: #fff;
+}
